@@ -1,0 +1,31 @@
+Desenvolvimento Web com Flask: através dos conceitos
+====================================================
+Eduardo Santana <eduardo.ufpb@gmail.com>
+
+
+// Metadata:
+:description: The description of this page.
+:keywords: flash, web, python
+// Settings:
+:compat-mode!:
+:icons: font
+:idprefix:
+:idseparator: -
+:sectnums:
+:toc:
+:imagesdir: media
+
+// Refs:
+:url-project: https://asciidoctor.org
+:url-docs: {url-project}/docs
+:url-issues:  https://github.com/asciidoctor/asciidoctor
+:img-ci: https://img.shields.io/travis/asciidoctor/asciidoctor/master.svg
+
+== Banco de dados
+
+Texto sobre bd aqui.
+
+
+----
+$ asciidoctor -b html5 recommended-practices.adoc
+----
